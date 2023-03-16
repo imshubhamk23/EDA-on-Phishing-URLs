@@ -1,0 +1,5 @@
+pandas
+numpy
+arff
+pandas-profiling
+seaborn
